@@ -1,4 +1,5 @@
 
+
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ## Jobs
@@ -6,4 +7,9 @@ Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 
 ### GitHub Trainer
+
+
+# References
+
+* octocat 1 😈
 
